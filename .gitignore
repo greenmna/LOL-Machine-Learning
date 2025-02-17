@@ -133,3 +133,4 @@ cython_debug/
 
 # Custom add-ons
 constants.py
+riot_api_tester.ipynb
